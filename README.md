@@ -31,8 +31,8 @@
 빠르게 변화하는 프런트엔드 개발 생태계를 따라가기 위한 노력
 ```
 
-1. **[❓ 프론트엔드가 뭐에요?  ]**
-2. **[❓ 브라우저 저장소에 대해서 설명해 보세요  ]**
+1. **[❓ 프론트엔드가 뭐에요?  ](https://github.com/pdy1207/MiddleTheorem/blob/main/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9C%BC%EB%A1%9C%EC%95%8C%EA%B3%A0%EC%9E%88%EC%96%B4%EC%95%BC../%EA%B7%B8%EB%9E%98%EC%84%9C%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EA%B0%80%20%EB%AD%94%EB%8D%B0%3F.md)**
+2. **[❓ 브라우저 저장소에 대해서 설명해 보세요  ](https://github.com/pdy1207/MiddleTheorem/blob/main/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9C%BC%EB%A1%9C%EC%95%8C%EA%B3%A0%EC%9E%88%EC%96%B4%EC%95%BC../%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EC%A0%80%EC%9E%A5%EC%86%8C%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C%20%EC%84%A4%EB%AA%85%ED%95%B4%20%EB%B3%B4%EC%84%B8%EC%9A%94.md)**
 3. **[❓ 자바스크립트 this란?  ]**
 4. **[❓ 자바스크립트 이벤트 관리 방법? 보통 어떤 식으로 이벤트를 설계해야 하는지?  ]**
 5. **[❓ 자바스크립트 비동기 처리에 대한 설명  ]**
@@ -47,10 +47,10 @@
 - 프런트엔드 빌드 시스템에 대해서 설명해보세요.
     - 바벨이란?
     - 폴리필이란?
-    - Node.js란?
-    - NPM이란?
+    - [Node.js란?](https://github.com/pdy1207/MiddleTheorem/blob/main/%EC%A7%81%EB%AC%B4%EA%B4%80%EB%A0%A8%2070%25%EB%8C%80%EB%8B%B5%EC%9D%84%20%ED%95%A0%EC%A4%84%EC%95%8C%EC%95%84%EC%95%BC../%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C%20%EB%B9%8C%EB%93%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C/Node.js%EB%9E%80%3F.md)
+    - [NPM이란?](https://github.com/pdy1207/MiddleTheorem/blob/main/%EC%A7%81%EB%AC%B4%EA%B4%80%EB%A0%A8%2070%25%EB%8C%80%EB%8B%B5%EC%9D%84%20%ED%95%A0%EC%A4%84%EC%95%8C%EC%95%84%EC%95%BC../%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C%20%EB%B9%8C%EB%93%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C/npm%EC%9D%B4%EB%9E%80%3F.md)
     - ESLint란?
-    - Prettier란?
+    - [Prettier란?](https://github.com/pdy1207/MiddleTheorem/blob/main/%EC%A7%81%EB%AC%B4%EA%B4%80%EB%A0%A8%2070%25%EB%8C%80%EB%8B%B5%EC%9D%84%20%ED%95%A0%EC%A4%84%EC%95%8C%EC%95%84%EC%95%BC../%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C%20%EB%B9%8C%EB%93%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C/Prettier%EB%9E%80%3F.md)
     - 웹 태스크 매니저란?
 - 웹팩이란? 모듈 번들러가 무엇인가요?
 
