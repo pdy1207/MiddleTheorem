@@ -33,11 +33,13 @@
 ```
 
 1. **[❓ 프론트엔드가 뭐에요?  ](https://github.com/pdy1207/MiddleTheorem/blob/main/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9C%BC%EB%A1%9C%EC%95%8C%EA%B3%A0%EC%9E%88%EC%96%B4%EC%95%BC../%EA%B7%B8%EB%9E%98%EC%84%9C%20%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EA%B0%80%20%EB%AD%94%EB%8D%B0%3F.md)**
-2. **[❓ 브라우저 저장소에 대해서 설명해 보세요  ](https://github.com/pdy1207/MiddleTheorem/blob/main/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9C%BC%EB%A1%9C%EC%95%8C%EA%B3%A0%EC%9E%88%EC%96%B4%EC%95%BC../%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EC%A0%80%EC%9E%A5%EC%86%8C%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C%20%EC%84%A4%EB%AA%85%ED%95%B4%20%EB%B3%B4%EC%84%B8%EC%9A%94.md)**
-3. **[❓ 자바스크립트 this란?  ]**
-4. **[❓ 자바스크립트 이벤트 관리 방법? 보통 어떤 식으로 이벤트를 설계해야 하는지?  ]**
-5. **[❓ 자바스크립트 비동기 처리에 대한 설명  ]**
-6. **[❓ 프런트엔드 개발은 지속적으로 학습해야 하는 분야인데 어떤식으로 학습을 하고 있는지?  ]**
+2. **[❓ 라이브러리 vs 프레임워크  ](https://github.com/pdy1207/MiddleTheorem/blob/main/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9C%BC%EB%A1%9C%EC%95%8C%EA%B3%A0%EC%9E%88%EC%96%B4%EC%95%BC../%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20vs%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.md)**
+3. **[❓ 브라우저 저장소에 대해서 설명해 보세요  ](https://github.com/pdy1207/MiddleTheorem/blob/main/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9C%BC%EB%A1%9C%EC%95%8C%EA%B3%A0%EC%9E%88%EC%96%B4%EC%95%BC../%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EC%A0%80%EC%9E%A5%EC%86%8C%EC%97%90%20%EB%8C%80%ED%95%B4%EC%84%9C%20%EC%84%A4%EB%AA%85%ED%95%B4%20%EB%B3%B4%EC%84%B8%EC%9A%94.md)**
+4. **[❓ 자바스크립트 this란?  ]**
+5. **[❓ 자바스크립트 이벤트 관리 방법? 보통 어떤 식으로 이벤트를 설계해야 하는지?  ]**
+6. **[❓ 자바스크립트 비동기 처리에 대한 설명  ]**
+7. **[❓ 프런트엔드 개발은 지속적으로 학습해야 하는 분야인데 어떤식으로 학습을 하고 있는지?  ]**
+8. 
 
 ## 직무와 관련하여서 최소 70% 이상 대답할 수 있으면 좋지 않을까? 하는 내용
 
