@@ -3,7 +3,7 @@
   <a href="#"><img src="https://user-images.githubusercontent.com/110442250/224909898-0307d678-b9a8-4506-969a-0e9f69f8da73.gif" alt="Front-End Performance Checklist" height="300"></a>
   <br>
   <br>
-  너 프론트 개발자라며?
+  프론트 개발자 맞습니까?
   <br>
 </h1>
 
