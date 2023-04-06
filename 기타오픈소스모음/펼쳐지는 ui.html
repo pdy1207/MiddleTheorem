@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Document</title>
+    <style>
+      a {
+        color: #333;
+      }
+      a:hover {
+        color: #ffa500;
+      }
+
+      details {
+        margin: 5px 0 10px;
+      }
+      details > summary {
+        background: #444;
+        color: #fff;
+        padding: 10px;
+        outline: 0;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background 0.5s;
+        text-align: left;
+        box-shadow: 1px 1px 2px gray;
+      }
+      details > summary::-webkit-details-marker {
+        background: #444;
+        color: #fff;
+        background-size: contain;
+        transform: rotate3d(0, 0, 1, 90deg);
+        transition: transform 0.25s;
+      }
+      details[open] > summary::-webkit-details-marker {
+        transform: rotate3d(0, 0, 1, 180deg);
+      }
+      details[open] > summary {
+        background: #444;
+      }
+      details[open] > summary ~ * {
+        animation: reveal 0.5s;
+      }
+      .tpt {
+        background: #444;
+        color: #fff;
+        margin: 5px 0 10px;
+        padding: 5px 10px;
+        line-height: 25px;
+        border-radius: 5px;
+        box-shadow: 1px 1px 2px gray;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+          transform: translate3d(0, -30px, 0);
+        }
+        to {
+          opacity: 1;
+          transform: translate3d(0, 0, 0);
+        }
+      }
+    </style>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+
+    <script>
+      $(document).ready(function () {
+        $("li.menu").on("click", function () {
+          $(this)
+            .siblings("li")
+            .find(">a")
+            .css("color", "#333")
+            .end()
+            .find("ul")
+            .slideUp()
+            .toggle();
+          $(this)
+            .find(">a")
+            .css("color", "#ffa500")
+            .end()
+            .find("ul")
+            .slideDown()
+            .toggle();
+          return true;
+        });
+        $("li.menu ul").hide();
+      });
+    </script>
+  </head>
+  <body>
+    <ul id="menu">
+      <li class="menu">
+        <a href="#">Sub 1</a>
+        <ul>
+          <li><a href="#">test 1</a></li>
+          <li><a href="#">test 2</a></li>
+          <li><a href="#">test 3</a></li>
+          <li><a href="#">test 4</a></li>
+        </ul>
+      </li>
+
+      <!-- <li class="menu">
+        <a href="#">Sub 2</a>
+        <ul>
+          <li><a href="#">test 1</a></li>
+          <li><a href="#">test 2</a></li>
+          <li><a href="#">test 3</a></li>
+          <li><a href="#">test 4</a></li>
+        </ul>
+      </li> -->
+    </ul>
+    <details>
+      <summary>Click Me!!!</summary>
+      <div class="tpt">details 과 summary 그리고 css까지 적용</div>
+    </details>
+  </body>
+</html>
