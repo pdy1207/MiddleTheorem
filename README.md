@@ -3,7 +3,7 @@
   <a href="#"><img src="https://teslacafe.co.kr/data/editor/2112/16399792526435.gif" alt="Front-End Performance Checklist" height="300"></a>
   <br>
   <br>
-  프론트 개발자 맞습니까?
+  프론트 개발자 🖥️
   <br>
 </h1>
 
