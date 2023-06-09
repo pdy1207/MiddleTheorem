@@ -18,6 +18,10 @@
 - [집에서 개인서버만들기](https://cowhacker.tistory.com/87)
 - [홈페이지에 표시되는 url에서 확장자 숨기기](https://seokd.tistory.com/4)
 
+# Git / GitHub
+
+- [일부만 받고싶을 때](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Fjaybon1%2Fjava-springboot-example%2Ftree%2Fmaster%2Frest%2Fmy_v3)
+
 # 기타 강의 (무료!)
 
   - [자바스크립트와 웹 프론트엔드 기초](https://school.programmers.co.kr/learn/courses/10/10-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C?referer=learn-challenge-course-recommended)
