@@ -28,7 +28,8 @@
 
 
 # 좋은 블로그 (기초가 많음) & 사이트
-
+  
+  - [Mac UI 코드](https://carbon.now.sh/?bg=rgba%28171%2C+184%2C+195%2C+1%29&t=seti&wt=none&l=auto&width=680&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=)
   - [기분따라 코딩](https://cocoder16.tistory.com/)
   - [Vue + Node + MySQL 참고 사이트](https://marshmello.tistory.com/64)
   - [Vue 기본문법 참고사이트](https://cjw-awdsd.tistory.com/33)
