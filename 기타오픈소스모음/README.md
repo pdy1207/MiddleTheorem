@@ -34,6 +34,7 @@
   - [Vue + Node + MySQL 참고 사이트](https://marshmello.tistory.com/64)
   - [Vue 기본문법 참고사이트](https://cjw-awdsd.tistory.com/33)
   - [코드러너 스타트업들의 기술스택](https://www.codenary.co.kr/company/list)
+  - [scss->css](https://www.sassmeister.com/)
 
 # 강사의 길을 가고싶나
 
